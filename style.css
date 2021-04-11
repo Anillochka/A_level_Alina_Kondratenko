@@ -1,0 +1,34 @@
+body {
+    height: 2700px;
+}
+
+.one {
+    margin-top: 600px;
+}
+
+li strong {
+    background-color: yellow;
+}
+
+p {
+    margin: 0 0;
+    font-size: 29px;
+
+}
+
+.bla_bla_bla {
+    width: 750px;
+    padding: 10px; 
+    border: 2px solid 
+}
+
+#my__table {
+    margin-top: 750px;
+    display: table;
+    background: rgb(255, 255, 119);
+
+}
+
+#table_one {
+    background-color: yellow;
+}
